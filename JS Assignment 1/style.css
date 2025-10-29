@@ -12,9 +12,10 @@
 }
 
 .container{
+    margin: 350px;
    display: flex;
    flex-direction: row;
-   justify-content: center;
+   justify-content: space-between;
    margin-top: 50px;
 }
 
